@@ -20,9 +20,9 @@
    <div id="inner-container">
         <div id="column1">
           <div id="content1">
-            <h2>Welcome to my website</h2>
+            <h2>About Us</h2>
             <img class="float-left" src="site-assets/images/pic2.jpg" width="200" height="165" alt="" />
-            <p>Hey Everyone. I Am Honey Patel.</p>
+            <p>My Name Is Honey Patel.</p>
           </div>  
           <br class="clear-all" />
         </div>
